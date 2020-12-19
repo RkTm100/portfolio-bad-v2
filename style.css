@@ -1,0 +1,18 @@
+h1{
+    color:black
+}
+.header{
+    background-color: yellow;
+    display:flex ;
+    justify-content: space-between;
+}
+body{
+    background-image: url("dreadnought.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+}
+
